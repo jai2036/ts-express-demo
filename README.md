@@ -6,9 +6,8 @@ Appd instrumentaion to monitor typescript-express app.
 1. Download & Unzip ts-express-demo.zip
 2. Update appd config in src/appd-config-inj.js
 3. ```shell
-docker build . -t <img_name> 
+    docker build . -t <img_name> 
    ```
-
 
 **Pre-requisites**:
 Install docker
